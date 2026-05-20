@@ -10,7 +10,7 @@ const altura = 5
 const longitud = 10
 
 //4
-let suma = altura + longitud
+let suma = (altura + longitud)
 
 //5
 console.log(miSuperheroeFavorito);

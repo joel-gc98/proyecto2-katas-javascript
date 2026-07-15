@@ -1,17 +1,17 @@
 const fruits = ["Strawberry", "Banana", "Orange", "Apple"];
 
 const foodSchedule = [
-  { name: "Heura", isVegan: true },
-  { name: "Salmon", isVegan: false },
-  { name: "Tofu", isVegan: true },
-  { name: "Burger", isVegan: false },
-  { name: "Rice", isVegan: true },
-  { name: "Pasta", isVegan: true },
-  { name: "Arroz", isVegan: true },
-  { name: "Poll", isVegan: false },
-  { name: "Pavo", isVegan: false },
-  { name: "Pescado", isVegan: false},
-  { name: "Croquetas", isVegan: false },
+    { name: "Heura", isVegan: true },
+    { name: "Salmon", isVegan: false },
+    { name: "Tofu", isVegan: true },
+    { name: "Burger", isVegan: false },
+    { name: "Rice", isVegan: true },
+    { name: "Pasta", isVegan: true },
+    { name: "Arroz", isVegan: true },
+    { name: "Poll", isVegan: false },
+    { name: "Pavo", isVegan: false },
+    { name: "Pescado", isVegan: false},
+    { name: "Croquetas", isVegan: false },
 ];
 
 const arrayNuevo = []

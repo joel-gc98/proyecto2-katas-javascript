@@ -12,7 +12,7 @@ const cartoons = [
 ];
 
 // Empezamos suponiendo que la primera es la más antigua
-let antigua = cartoons[0];
+let masAntigua = cartoons[0];
 
 for (const cartoon of cartoons) {
     if (cartoon.debut < masAntigua.debut) {

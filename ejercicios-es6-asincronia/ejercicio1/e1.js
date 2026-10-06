@@ -35,7 +35,7 @@ const car = {
     itv: [2015, 2011, 2020]
 };
 
-const { name, itv } = car;
+const { marca, itv } = car;
 
 const [year1, year2, year3] = itv;
 

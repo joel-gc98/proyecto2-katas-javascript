@@ -1,6 +1,5 @@
 //1
-const miSuperheroeFavorito
-miSuperheroeFavorito = "HULK"
+const miSuperheroeFavorito = "HULK"
 
 //2
 const numeroFavorito = 50
